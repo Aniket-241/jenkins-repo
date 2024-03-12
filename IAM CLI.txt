@@ -1,0 +1,6 @@
+* Access key =User name 
+* secreat access key = password 
+* Aws configure=aply when we login as root user ,for login 
+
+
+ani123
